@@ -6,7 +6,7 @@
 
 ## Description du Projet
 
-**ALONE** est un site web institutionnel pour une organisation non gouvernementale (ONG) dédiée à l'aide humanitarian internationale. Ce projet a été développé lors d'un **test technique** pour un poste de **stagiaire développeur web**.
+**ALONE** est un site web institutionnel pour une organisation non gouvernementale (ONG) dédiée à l'aide humanitarian internationale. Ce projet a été développé lors d'un **test technique** pour un poste de **stagiaire développeur web** chez **Polaris Asso**.
 
 Le site présente les différentes actions de l'ONG, ses causes, ses événements, une boutique de produits et les dernières nouvelles.
 
